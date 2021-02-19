@@ -36,8 +36,8 @@ case "$1" in
     <title>Welcome to H2O</title>
   </head>
   <body>
-    <p>Welcome to H2O - an optimized HTTP server</p>
-    <p>It works!</p>
+    <h2>Welcome to H2O - an optimized HTTP server</h2>
+    <p>It works!, check documentation: <a href"/docs">/docs</a></p>
   </body>
 </html>
 _HTML_

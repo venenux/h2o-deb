@@ -28,7 +28,7 @@ Homepage: https://h2o.examp1e.net/
 Package: h2o
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, lsb-base, perl
-Recommends: ssl-cert
+Suggests: h2o-doc, ssl-cert
 Description: H2O - The optimized HTTP/1, HTTP/2 server
  H2O is a new generation HTTP server that provides quicker response to users
  with less CPU utilization when compared to older generation of web servers.
